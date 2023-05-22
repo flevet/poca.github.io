@@ -9,6 +9,9 @@ PoCA is a a powerful stand-alone software designed to ease the manipulation and 
 
 **If you use it, please cite it:**
 
+* Florian Levet & Jean-Baptiste Sibarita. 
+*PoCA: a software platform for point cloud data visualization and quantification*. [Nature Methods 20, 629–630 (2023) doi:10.1038/s41592-023-01811-4](https://doi.org/10.1038/s41592-023-01811-4)
+
 * Florian Levet, Eric Hosy, Adel Kechkar, Corey Butler, Anne Beghin, Daniel Choquet, Jean-Baptiste Sibarita. 
 *SR-Tesseler: a method to segment and quantify localization-based super-resolution microscopy data*. [Nature Methods 12 (11), 1065-71 (2015) doi:10.1038/nmeth.3579](https://doi.org/10.1038/nmeth.3579)
 
